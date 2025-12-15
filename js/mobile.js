@@ -15,7 +15,7 @@
         if (!dom.mobileToolbarTitle) {
             return;
         }
-        dom.mobileToolbarTitle.textContent = "李小雅-音乐";
+        dom.mobileToolbarTitle.innerHTML = "李小雅-音乐<br><span style='font-size: 12px; color: #888;'>The wet dream boy who will always love you！</span>";
     }
 
     function updateMobileOverlayScrim() {
