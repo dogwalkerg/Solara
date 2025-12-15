@@ -15,7 +15,7 @@
         if (!dom.mobileToolbarTitle) {
             return;
         }
-        dom.mobileToolbarTitle.textContent = "雅姐音乐";
+        dom.mobileToolbarTitle.textContent = "李小雅-音乐";
     }
 
     function updateMobileOverlayScrim() {
