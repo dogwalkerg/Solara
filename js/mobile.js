@@ -15,7 +15,7 @@
         if (!dom.mobileToolbarTitle) {
             return;
         }
-        dom.mobileToolbarTitle.innerHTML = "<span style='color: #e91e63;'>李小雅-音乐</span><br><span style='font-size: 12px; color: #ff4081;'>来自顾不上爱你的人!</span>";
+        dom.mobileToolbarTitle.innerHTML = "<span style='color: #ff9800;'>李小雅-音乐</span><br><span style='font-size: 12px; color: #00bcd4;'>来自一位顾不上爱你的人制作!</span>";
     }
 
     function updateMobileOverlayScrim() {
